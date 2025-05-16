@@ -16,12 +16,7 @@ Styled with custom CSS for a clean, modern look.
 
 ---
 
-## Demo
 
-![Screenshot](./screenshot.png)  
-*(Add a screenshot of your app here)*
-
----
 
 ## Installation
 
