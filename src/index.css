@@ -1,0 +1,60 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f8;
+  color: #333;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+img, picture, video, canvas, svg {
+  max-width: 100%;
+  display: block;
+}
+
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+
+ul, ol {
+  list-style: none;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #222;
+}
+
+
+input, textarea, select {
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: border-color 0.3s ease;
+}
+
+input:focus, textarea:focus, select:focus {
+  border-color: #007bff;
+  outline: none;
+}
